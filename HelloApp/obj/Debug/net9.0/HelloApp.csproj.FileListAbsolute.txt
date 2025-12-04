@@ -12,3 +12,4 @@ C:\disco_a\dev\education\udemy\backend\csharp\HelloApp\obj\Debug\net9.0\refint\H
 C:\disco_a\dev\education\udemy\backend\csharp\HelloApp\obj\Debug\net9.0\HelloApp.pdb
 C:\disco_a\dev\education\udemy\backend\csharp\HelloApp\obj\Debug\net9.0\HelloApp.genruntimeconfig.cache
 C:\disco_a\dev\education\udemy\backend\csharp\HelloApp\obj\Debug\net9.0\ref\HelloApp.dll
+C:\disco_a\dev\education\udemy\backend\csharp\HelloApp\obj\Debug\net9.0\HelloApp.sourcelink.json

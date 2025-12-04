@@ -1,12 +1,13 @@
 
+
 partial class Program
 {
     static void Generics()
     {
         string[] names = { "Alice", "Bob", "Charlie" };
         int[] numbers = { 1, 2, 3, 34, 5 };
-        Console.WriteLine($"Length of names array: {GetArrayLength(names)}");
-        Console.WriteLine($"Length of numbers array: {GetArrayLength(numbers)}");
+        WriteLine($"Length of names array: {GetArrayLength(names)}");
+        WriteLine($"Length of numbers array: {GetArrayLength(numbers)}");
 
         Box<int> numberBox = new Box<int> { Content = 123 };
         Box<string> stringBox = new Box<string> { Content = "Hello Generics" };
