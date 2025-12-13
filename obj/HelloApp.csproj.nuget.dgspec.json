@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\HelloApp\\HelloApp.csproj": {}
+    "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\HelloApp.csproj": {}
   },
   "projects": {
-    "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\HelloApp\\HelloApp.csproj": {
+    "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\HelloApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\HelloApp\\HelloApp.csproj",
+        "projectUniqueName": "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\HelloApp.csproj",
         "projectName": "HelloApp",
-        "projectPath": "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\HelloApp\\HelloApp.csproj",
+        "projectPath": "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\HelloApp.csproj",
         "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-        "outputPath": "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\HelloApp\\obj\\",
+        "outputPath": "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
