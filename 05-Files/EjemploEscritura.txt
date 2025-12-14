@@ -1,0 +1,6 @@
+Hola, este es un ejemplo de escritura en un archivo.
+Segunda línea del archivo.
+La hora actual es: 22:11:18
+Hola, este es un ejemplo de escritura en un archivo.
+Segunda línea del archivo.
+La hora actual es: 22:12:31
