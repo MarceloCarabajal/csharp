@@ -28,3 +28,10 @@ C:\disco_a\dev\education\udemy\backend\csharp\obj\Debug\net9.0\refint\HelloApp.d
 C:\disco_a\dev\education\udemy\backend\csharp\obj\Debug\net9.0\HelloApp.pdb
 C:\disco_a\dev\education\udemy\backend\csharp\obj\Debug\net9.0\HelloApp.genruntimeconfig.cache
 C:\disco_a\dev\education\udemy\backend\csharp\obj\Debug\net9.0\ref\HelloApp.dll
+C:\disco_a\dev\education\udemy\backend\csharp\bin\Debug\net9.0\BetterConsoles.Colors.dll
+C:\disco_a\dev\education\udemy\backend\csharp\bin\Debug\net9.0\BetterConsoles.Core.dll
+C:\disco_a\dev\education\udemy\backend\csharp\bin\Debug\net9.0\BetterConsole.Tables.dll
+C:\disco_a\dev\education\udemy\backend\csharp\bin\Debug\net9.0\Clawfoot.Core.dll
+C:\disco_a\dev\education\udemy\backend\csharp\bin\Debug\net9.0\Clawfoot.Extensions.dll
+C:\disco_a\dev\education\udemy\backend\csharp\obj\Debug\net9.0\HelloApp.csproj.AssemblyReference.cache
+C:\disco_a\dev\education\udemy\backend\csharp\obj\Debug\net9.0\HelloApp.csproj.Up2Date
