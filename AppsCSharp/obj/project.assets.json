@@ -1029,11 +1029,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\HelloApp.csproj",
+      "projectUniqueName": "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\AppsCSharp\\HelloApp.csproj",
       "projectName": "HelloApp",
-      "projectPath": "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\HelloApp.csproj",
+      "projectPath": "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\AppsCSharp\\HelloApp.csproj",
       "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-      "outputPath": "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\obj\\",
+      "outputPath": "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\AppsCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\HelloApp.csproj": {}
+    "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\MyApi\\MyApi.csproj": {}
   },
   "projects": {
-    "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\HelloApp.csproj": {
+    "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\MyApi\\MyApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\HelloApp.csproj",
-        "projectName": "HelloApp",
-        "projectPath": "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\HelloApp.csproj",
+        "projectUniqueName": "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\MyApi\\MyApi.csproj",
+        "projectName": "MyApi",
+        "projectPath": "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\MyApi\\MyApi.csproj",
         "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-        "outputPath": "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\obj\\",
+        "outputPath": "C:\\disco_a\\dev\\education\\udemy\\backend\\csharp\\MyApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,9 +51,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "BetterConsoleTables": {
+            "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[2.0.5-rc1, )"
+              "version": "[9.0.10, )"
             }
           },
           "imports": [
@@ -68,6 +68,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
